@@ -7,3 +7,5 @@ The projects includes;
 
 --- 
 ## Day_1 Building a Band Name Generator
+
+The program asks you to input a city you grew up in and the name of your pet. And then it combines those together and gives you the name of your band.
