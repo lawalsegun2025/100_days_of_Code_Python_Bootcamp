@@ -12,3 +12,6 @@ The program asks you to input a city you grew up in and the name of your pet. An
 
 ---
 ## Day_2 Build a Tip Calculator
+
+---
+## Day_3 Treasure_island game
