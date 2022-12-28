@@ -15,3 +15,5 @@ The program asks you to input a city you grew up in and the name of your pet. An
 
 ---
 ## Day_3 Treasure_island game
+
+This is a treasure search adventure game. The game lets users make a decision, anddepending on what they have chosen, it continues the game storyline.
