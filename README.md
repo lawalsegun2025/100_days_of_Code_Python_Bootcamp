@@ -19,3 +19,6 @@ It starts with a welcome message, it asks you for the total bill that you need t
 ## Day_3 Treasure_island game
 
 This is a treasure search adventure game. The game lets users make a decision, anddepending on what they have chosen, it continues the game storyline.
+
+---
+## Day_4 Rock_Paper_Scissors
