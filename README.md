@@ -24,3 +24,6 @@ This is a treasure search adventure game. The game lets users make a decision, a
 ## Day_4 Rock_Paper_Scissors
 
 This is a Rock Paper Scissors Game and it starts out by asking you, the user, to type 0 for rock, 1 for paper or 2 for scissors. You can run the game as many times as you wish.
+
+---
+## Day_5
