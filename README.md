@@ -27,3 +27,5 @@ This is a Rock Paper Scissors Game and it starts out by asking you, the user, to
 
 ---
 ## Day_5 Password_Generator
+
+ This project is entails building a password generator,
