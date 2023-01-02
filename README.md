@@ -28,4 +28,4 @@ This is a Rock Paper Scissors Game and it starts out by asking you, the user, to
 ---
 ## Day_5 Password_Generator
 
- This project is entails building a password generator. This password generator will generate strong passwords with lettersd and symbols and numbers. You will be asked how many letters would you like for your password? HOw many symbols would you like in your password?
+ This project is entails building a password generator. This password generator will generate strong passwords with lettersd and symbols and numbers. You will be asked how many letters would you like for your password? oOw many symbols would you like in your password? And finally, how many numbers will you like in your password.
