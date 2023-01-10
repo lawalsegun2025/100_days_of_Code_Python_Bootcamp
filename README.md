@@ -33,4 +33,4 @@ This is a Rock Paper Scissors Game and it starts out by asking you, the user, to
 ---
 ## Day_7 Hangman Project
 
-You have to guess a word and for every wrong letter you submit, you end up taking away
+You have to guess a word and for every wrong letter you submit, you end up taking a life away from this little man. The longer it takes you to get to the word, the more you put your little man in danger.
