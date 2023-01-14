@@ -36,5 +36,6 @@ This is a Rock Paper Scissors Game and it starts out by asking you, the user, to
 You have to guess a word and for every wrong letter you submit, you end up taking a life away from this little man. The longer it takes you to get to the word, the more you put your little man in danger.
 
 ---
-## Day_8 Caesar Cippher Project
+## Day_8 Caesar Cipher Project
 
+The algotithm of Caeser Cipher holds the followint features:-
