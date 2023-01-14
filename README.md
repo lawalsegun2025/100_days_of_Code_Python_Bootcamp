@@ -45,3 +45,15 @@ The algotithm of Caeser Cipher holds the followint features:-
 - Each letter of plain text is replaced by a letter with some fixed number of positions down with alphabet.
 
 The following diagram depicts the working of Caesar cipher algorithm implementation −
+
+Explanation
+
+### IMAGE HERE
+
+The plain text character is traversed one at a time.
+
+- For each character in the given plain text, transform the given character as per the rule depending on the procedure of encryption and decryption of text.
+- After the steps is followed, a new string is generated which is referred as cipher text.
+
+
+
