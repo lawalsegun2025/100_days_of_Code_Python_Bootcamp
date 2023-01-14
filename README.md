@@ -41,3 +41,4 @@ You have to guess a word and for every wrong letter you submit, you end up takin
 The algotithm of Caeser Cipher holds the followint features:-
 
 - Caesar Cipher Technique is the simple and easy method of encryption technique.
+- It is simple type of substitution cipher
