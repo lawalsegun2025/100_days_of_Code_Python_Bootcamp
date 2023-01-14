@@ -28,7 +28,7 @@ This is a Rock Paper Scissors Game and it starts out by asking you, the user, to
 ---
 ## Day_5 Password_Generator
 
- This project is entails building a password generator. This password generator will generate strong passwords with lettersd and symbols and numbers. You will be asked how many letters would you like for your password? oOw many symbols would you like in your password? And finally, how many numbers will you like in your password? Then Hit enter, and the password it has generated will be displayed.
+ This project is entails building a password generator. This password generator will generate strong passwords with lettersd and symbols and numbers. You will be asked how many letters would you like for your password? How many symbols would you like in your password? And finally, how many numbers will you like in your password? Then Hit enter, and the password it has generated will be displayed.
 
 ---
 ## Day_7 Hangman Project
@@ -39,3 +39,5 @@ You have to guess a word and for every wrong letter you submit, you end up takin
 ## Day_8 Caesar Cipher Project
 
 The algotithm of Caeser Cipher holds the followint features:-
+
+- Caesar Cipher Technique is the simple and easy method of encryption technique.
