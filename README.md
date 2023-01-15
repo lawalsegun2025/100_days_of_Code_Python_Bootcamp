@@ -16,7 +16,7 @@ The program asks you to input a city you grew up in and the name of your pet. An
 It starts with a welcome message, it asks you for the total bill that you need to pay? Then it asks you how many people you want to split the bill between? It finally asks you what percentage tip will you like to give? IT then calculates what each person shoulp pay, taking into account all of these pieces of information that you have put in.
 
 ---
-## Day_3 Treasure_island game
+## Day_3 Treasure_island Project
 
 This is a treasure search adventure game. The game lets users make a decision, anddepending on what they have chosen, it continues the game storyline.
 
