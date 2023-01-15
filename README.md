@@ -47,8 +47,9 @@ The algotithm of Caeser Cipher holds the followint features:-
 The following diagram depicts the working of Caesar cipher algorithm implementation −
 
 Explanation
-
-<img src="/img/algorithm_caesar_cipher.jpg">
+<div align="center">
+ <img src="/img/algorithm_caesar_cipher.jpg">
+</div>
 
 The plain text character is traversed one at a time.
 
