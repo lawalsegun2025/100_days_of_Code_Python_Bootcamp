@@ -48,7 +48,7 @@ The following diagram depicts the working of Caesar cipher algorithm implementat
 
 Explanation
 
-### IMAGE HERE
+--
 
 The plain text character is traversed one at a time.
 
