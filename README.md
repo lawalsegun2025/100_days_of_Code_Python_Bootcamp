@@ -1,4 +1,4 @@
-# 100 days of Cod Python Bootcamp
+# 100 days of Code Python Projects
 
 This repositoroy contains all the projects I carried out when studying 100 Days of Code: 
 The Complete Python Pro Bootcamp By Dr. Angela Yu 
