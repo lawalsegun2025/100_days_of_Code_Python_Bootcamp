@@ -58,5 +58,4 @@ The plain text character is traversed one at a time.
 
 ## Day_9 Blind Auction Project
 
-You log into the program and give your name and your bid.
-
+You log into the program and give your name and your bid. Ounce you are done with your bid, the program asks you if there are any other bidders.
