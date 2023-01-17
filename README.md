@@ -58,6 +58,5 @@ The plain text character is traversed one at a time.
 
 ## Day_9 Blind Auction Project
 
-
-
+You log into the program and give your name and your bid.
 
