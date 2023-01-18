@@ -58,7 +58,7 @@ The plain text character is traversed one at a time.
 
 ## Day_9 Blind Auction Project
 
-You log into the program and give your name and your bid. Once you are done with your bid, the program asks you if there are any other bidders. If you type "yes", then the screen clears and you hand over the laptop to the next person who is going to make their bid. Till it gets to the turn of the final bidder.
+You log into the program and give your name and your bid. Once you are done with your bid, the program asks you if there are any other bidders. If you type "yes", then the screen clears and you hand over the laptop to the next person who is going to make their bid. Till it gets to the turn of the final bidder. when everyone is done bidding and the prgram asks
 
 ## Day_10 Blind a Calculator Project
 
