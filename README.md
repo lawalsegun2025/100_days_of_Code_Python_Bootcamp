@@ -60,4 +60,4 @@ The plain text character is traversed one at a time.
 
 You log into the program and give your name and your bid. Ounce you are done with your bid, the program asks you if there are any other bidders. If you type "yes", then the screen cears and you hand over the laptop to the next bidder.
 
-## Day_9 Blind Auction Project
+## Day_10 Blind Auction Project
