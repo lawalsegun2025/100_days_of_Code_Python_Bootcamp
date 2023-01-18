@@ -62,4 +62,4 @@ You log into the program and give your name and your bid. Ounce you are done wit
 
 ## Day_10 Blind a Calculator Project
 
-This is a text based calculator. You start by writing a number and then picking one of the operations
+This is a text based calculator. You start by writing a number and then picking one of the operations; Plus, Minus, Multiply or Devide.
