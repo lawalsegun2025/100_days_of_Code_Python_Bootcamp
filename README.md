@@ -64,4 +64,4 @@ You log into the program and give your name and your bid. Once you are done with
 
 This is a text based calculator. You start by writing a number and then picking one of the operations; Plus, Minus, Multiply or Divide.
 
-## Day_11t
+## Day_11 Black Jack Project
