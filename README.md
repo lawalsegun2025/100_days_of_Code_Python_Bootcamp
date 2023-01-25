@@ -66,4 +66,4 @@ This is a text based calculator. You start by writing a number and then picking 
 
 ## Day_11 Black Jack Project
 
-The game is pretty simple
+The game is pretty simple, you are trying to get as close to 21 as possible.
