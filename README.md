@@ -68,4 +68,4 @@ This is a text based calculator. You start by writing a number and then picking 
 
 The game is pretty simple, you are trying to get as close to 21 as possible.
 
-## Day_9 Blind Auction Project
+## Day_12 Number Guessing Project
