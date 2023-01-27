@@ -62,7 +62,7 @@ You log into the program and give your name and your bid. Once you are done with
 
 ## Day_10 Blind a Calculator Project
 
-This is a text based calculator. You start by writing a numberv  and then picking one of the operations; Plus (+), Minus (-), Multiply (*) Divide (/). Then it shows you the full calculaton. And now you can continue calculating
+This is a text based calculator. You start by writing a numberv  and then picking one of the operations; Plus (+), Minus (-), Multiply (*) Divide (/). Then it shows you the full calculaton. And now you can continue calculating with the answer
 
 ## Day_11 Black Jack Project
 
