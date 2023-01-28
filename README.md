@@ -66,6 +66,6 @@ This is a text based calculator. You start by writing a numberv  and then pickin
 
 ## Day_11 Black Jack Project
 
-The game is pretty simple, you are trying to get as close to 21 as possible.
+The game is pretty simple, you are trying to get as close to 21 as possible, and all
 
 ## Day_12 Number Guessing Project
