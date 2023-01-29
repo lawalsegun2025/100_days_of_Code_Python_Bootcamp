@@ -66,6 +66,6 @@ This is a text based calculator. You start by writing a numberv  and then pickin
 
 ## Day_11 Black Jack Project
 
-The game is pretty simple, you request the dealer to give you two cards. You are trying to get as close to 21 as possible, but not over 21, and all of the cards which have a Jack, a Queen, or a King, count as 10. So you add the numbers on the cards. And you are trying to figure out if you can risk
+The game is pretty simple, you request the dealer to give you two cards. You are trying to get as close to 21 as possible, but not over 21, and all of the cards which have a Jack, a Queen, or a King, count as 10. So you add the numbers on the cards. And you are trying to figure out if you can risk another card.
 
 ## Day_12 Number Guessing Project
