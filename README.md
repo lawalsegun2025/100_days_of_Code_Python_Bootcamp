@@ -69,3 +69,4 @@ This is a text based calculator. You start by writing a numberv  and then pickin
 The game is pretty simple, you request the dealer to give you two cards. You are trying to get as close to 21 as possible, but not over 21, and all of the cards which have a Jack, a Queen, or a King, count as 10. So you add the numbers on the cards. And you are trying to figure out if you can risk another card. If the total sum of numbers on your cards is less than 21 and less than the sum of the dealers you win, else the dealer wins.
 
 ## Day_12 Number Guessing Project
+
