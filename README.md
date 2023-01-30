@@ -70,4 +70,4 @@ The game is pretty simple, you request the dealer to give you two cards. You are
 
 ## Day_12 Number Guessing Project
 
-The program tells you that it is thinking of a number between 1 and 100. It then asks you to choose a difficulty bwtween "Hard" or "Easy". Now it tells you that you have 5 attempts to guess the number.
+The program tells you that it is thinking of a number between 1 and 100. It then asks you to choose a difficulty bwtween "Hard" or "Easy". Now it tells you that you have 5 attempts to guess the number, and you make a guess
