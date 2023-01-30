@@ -70,4 +70,4 @@ The game is pretty simple, you request the dealer to give you two cards. You are
 
 ## Day_12 Number Guessing Project
 
-The program tells you that it is thinking of a number
+The program tells you that it is thinking of a number between 1 and 100
