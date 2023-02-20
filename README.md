@@ -73,5 +73,4 @@ The game is pretty simple, you request the dealer to give you two cards. You are
 The program tells you that it is thinking of a number between 1 and 100. It then asks you to choose a difficulty between "Hard" or "Easy". Now it tells you that you have 5 attempts to guess the number, and you make a guess, if you guess a number greater than the chosen number, the program tells you, that the number is too high and it's not the  number that it was thinking, and your number of attempts decreases by one. Then it asks you to make a guess again. An if you guess a number less that the chosen number, the program tells you that the number is too low, decrease you number of attempts by one and asks you to guess again. You keep guessing till you get the right number, or till you run out of attempts and you loose the game.
 
 ---
-
 ## Day_14 Higer or Lower
