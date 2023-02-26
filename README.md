@@ -75,3 +75,6 @@ The game is pretty simple, you request the dealer to give you two cards. You are
 
 ---
 ## Day_14 Higer or Lower
+<p align="Justify">
+ This game is comparing who had more followers on Instagram. You will compare two celebrities and guess which of them has more followers.
+</p>
