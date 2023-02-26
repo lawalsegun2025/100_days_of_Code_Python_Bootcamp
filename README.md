@@ -78,5 +78,5 @@ The game is pretty simple, you request the dealer to give you two cards. You are
 ---
 ## Day_14 Higer or Lower
 <p align="Justify">
-This game is comparing who had more followers on Instagram. You will compare two celebrities and guess which of them has more followers. If you guess wrong the game ends, but if you get it right, you score a point. And this game continues on and on until you get to the point where you get it wrong. THe aim of the game is to try and stay alive for as long as possible.
+This game is comparing who had more followers on Instagram. You will compare two celebrities and guess which of them has more followers. If you guess wrong the game ends, but if you get it right, you score a point. And this game continues on and on until you get to the point where you get it wrong. THe aim of the game is to try and stay alive for as long as possible and score as high as possible by thinking about who might be more popular than the other.
 </p>
