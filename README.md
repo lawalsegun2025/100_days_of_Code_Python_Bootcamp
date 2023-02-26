@@ -69,8 +69,9 @@ This is a text based calculator. You start by writing a numberv  and then pickin
 The game is pretty simple, you request the dealer to give you two cards. You are trying to get as close to 21 as possible, but not over 21, and all of the cards which have a Jack, a Queen, or a King, count as 10. So you add the numbers on the cards. And you are trying to figure out if you can risk another card. If the total sum of numbers on your cards is less than 21 and less than the sum of the dealers you win, else the dealer wins.
 
 ## Day_12 Number Guessing Project
-
-The program tells you that it is thinking of a number between 1 and 100. It then asks you to choose a difficulty between "Hard" or "Easy". Now it tells you that you have 5 attempts to guess the number, and you make a guess, if you guess a number greater than the chosen number, the program tells you, that the number is too high and it's not the  number that it was thinking, and your number of attempts decreases by one. Then it asks you to make a guess again. An if you guess a number less that the chosen number, the program tells you that the number is too low, decrease you number of attempts by one and asks you to guess again. You keep guessing till you get the right number, or till you run out of attempts and you loose the game.
+<p align="Justify">
+   The program tells you that it is thinking of a number between 1 and 100. It then asks you to        choose a difficulty between "Hard" or "Easy". Now it tells you that you have 5 attempts to guess    the number, and you make a guess, if you guess a number greater than the chosen number, the        program tells you, that the number is too high and it's not the  number that it was thinking,      and your number of attempts decreases by one. Then it asks you to make a guess again. An if you    guess a number less that the chosen number, the program tells you that the number is too low,      decrease you number of attempts by one and asks you to guess again. You keep guessing till you      get the right number, or till you run out of attempts and you loose the game.
+</p>
 
 ---
 ## Day_14 Higer or Lower
