@@ -60,10 +60,11 @@ The plain text character is traversed one at a time.
 
 You log into the program and give your name and your bid. Once you are done with your bid, the program asks you if there are any other bidders. If you type "yes", then the screen clears and you hand over the laptop to the next person who is going to make their bid. Till it gets to the turn of the final bidder. when everyone is done bidding and the prgram asks "If there is any other bidder?", you type "no". Then the program will tally up all the bids and figure out who bid the highest, and give a winner, printing out the name of the winner, and their bid. 
 
-## Day_10 Blind a Calculator Project
-
+## Day_10 Build a Calculator Project
+<p aligh="Justify">
 This is a text based calculator. You start by writing a numberv  and then picking one of the operations; Plus (+), Minus (-), Multiply (*) Divide (/). Then it shows you the full calculaton. And now you can continue calculating with the answer from the previous steps. Or you can type "n" to start a new calculation.
-
+</p>
+ 
 ## Day_11 Black Jack Project
 <p align="Justify">
 The game is pretty simple, you request the dealer to give you two cards. You are trying to get as close to 21 as possible, but not over 21, and all of the cards which have a Jack, a Queen, or a King, count as 10. So you add the numbers on the cards. And you are trying to figure out if you can risk another card. If the total sum of numbers on your cards is less than 21 and less than the sum of the dealers you win, else the dealer wins.
