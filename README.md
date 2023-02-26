@@ -65,8 +65,9 @@ You log into the program and give your name and your bid. Once you are done with
 This is a text based calculator. You start by writing a numberv  and then picking one of the operations; Plus (+), Minus (-), Multiply (*) Divide (/). Then it shows you the full calculaton. And now you can continue calculating with the answer from the previous steps. Or you can type "n" to start a new calculation.
 
 ## Day_11 Black Jack Project
-
+<p align="Justify">
 The game is pretty simple, you request the dealer to give you two cards. You are trying to get as close to 21 as possible, but not over 21, and all of the cards which have a Jack, a Queen, or a King, count as 10. So you add the numbers on the cards. And you are trying to figure out if you can risk another card. If the total sum of numbers on your cards is less than 21 and less than the sum of the dealers you win, else the dealer wins.
+</p>
 
 ## Day_12 Number Guessing Project
 <p align="Justify">
