@@ -89,3 +89,8 @@ This game is comparing who had more followers on Instagram. You will compare two
 <div align="center">
  <img src="/img/coffee_machine.jpg">
 </div>
+<p align="Justify">
+This coffee machine will have the ability to:
+ 
+1. Make 3 hot flavours
+</p>
