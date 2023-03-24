@@ -28,7 +28,9 @@ This is a Rock Paper Scissors Game and it starts out by asking you, the user, to
 ---
 ## Day_5 Password_Generator
 
- This project is entails building a password generator. This password generator will generate strong passwords with lettersd and symbols and numbers. You will be asked how many letters would you like for your password? How many symbols would you like in your password? And finally, how many numbers will you like in your password? Then Hit enter, and the password it has generated will be displayed.
+<p aligh="Justify">
+This project is entails building a password generator. This password generator will generate strong passwords with lettersd and symbols and numbers. You will be asked how many letters would you like for your password? How many symbols would you like in your password? And finally, how many numbers will you like in your password? Then Hit enter, and the password it has generated will be displayed.
+</p>
 
 ---
 ## Day_7 Hangman Project
@@ -79,5 +81,5 @@ The game is pretty simple, you request the dealer to give you two cards. You are
 ---
 ## Day_14 Higer or Lower
 <p align="Justify">
-This game is comparing who had more followers on Instagram. You will compare two celebrities and guess which of them has more followers. If you guess wrong the game ends, but if you get it right, you score a point. And this game continues on and on until you get to the point where you get it wrong. THe aim of the game is to try and stay alive for as long as possible and score as high as possible by thinking about who might be more popular than the other.
+This game is comparing who had more followers on Instagram. You will compare two celebrities and guess which of them has more followers. If you guess wrong the game ends, but if you get it right, you score a point. And this game continues on and on until you get to the point where you get it wrong. The aim of the game is to try and stay alive for as long as possible and score as high as possible by thinking about who might be more popular than the other.
 </p>
