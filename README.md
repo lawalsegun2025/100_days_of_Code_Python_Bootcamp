@@ -98,4 +98,8 @@ This coffee machine will have the ability to:
  * Cappuccino
  
  For th recepie of these drinck, each of them rquire a different quantity of water, coffee and milk. And the also each have a different price.
+ 
+<div align="center">
+<img src="/img/coffee_types.png>
+</div>
 </p>
