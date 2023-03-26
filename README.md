@@ -102,4 +102,6 @@ This coffee machine will have the ability to:
 <div align="center">
 <img src="/img/coffee_types.png">
 </div>
+The coffee machine also has soe starting resourses like water milk and coffee.
+
 </p>
