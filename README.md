@@ -97,7 +97,7 @@ This coffee machine will have the ability to:
  * Latte
  * Cappuccino
  
- For th recepie of these drinck, each of them rquire a different quantity of water, coffee and milk. And the also each have a different price.
+For the recepie of these drinck, each of them rquire a different quantity of water, coffee and milk. And the also each have a different price.
  
 <div align="center">
 <img src="/img/coffee_types.png">
@@ -105,4 +105,6 @@ This coffee machine will have the ability to:
 The coffee machine also has soe starting resourses like water milk and coffee.
 
 <img src="/img/starting_resources.png">
+
+2. Coin Operated
 </p>
