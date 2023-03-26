@@ -92,7 +92,7 @@ This game is comparing who had more followers on Instagram. You will compare two
 <p align="Justify">
 This coffee machine will have the ability to:
  
-1. Make 3 hot flavours
+**1. Make 3 hot flavours**
  * Expresso
  * Latte
  * Cappuccino
