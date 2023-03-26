@@ -104,4 +104,5 @@ This coffee machine will have the ability to:
 </div>
 The coffee machine also has soe starting resourses like water milk and coffee.
 
+<img src="/img/starting_resources.png">
 </p>
