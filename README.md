@@ -96,4 +96,6 @@ This coffee machine will have the ability to:
  * Expresso
  * Latte
  * Cappuccino
+ 
+ For th recepie of these drinck, each of them rquire a different quantity of water, coffee and milk.
 </p>
