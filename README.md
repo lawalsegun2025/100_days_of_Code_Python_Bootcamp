@@ -112,7 +112,7 @@ The coffee machine also has soe starting resourses like water milk and coffee.
 * Dime (10 cent)
 * Quarter (25 cent)
 
-**Program Requirements
+**Program Requirements**
 1. Print report
 2. Check resources sufficient?
 </p>
