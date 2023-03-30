@@ -115,4 +115,6 @@ The coffee machine also has soe starting resourses like water milk and coffee.
 **Program Requirements**
 1. Print report
 2. Check resources sufficient?
+
+THe program is able to look through all the resources that the machine has, 
 </p>
