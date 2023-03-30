@@ -107,4 +107,5 @@ The coffee machine also has soe starting resourses like water milk and coffee.
 <img src="/img/starting_resources.png">
 
 **2. Coin Operated**
+* Penny
 </p>
