@@ -108,4 +108,7 @@ The coffee machine also has soe starting resourses like water milk and coffee.
 
 **2. Coin Operated**
 * Penny
+* Nickel
+* Dime
+* Quarter
 </p>
