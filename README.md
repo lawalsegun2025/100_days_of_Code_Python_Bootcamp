@@ -115,6 +115,7 @@ The coffee machine also has soe starting resourses like water milk and coffee.
 **Program Requirements**
 1. Print report
 2. Check resources sufficient?
+3. Process coins
 
-THe program is able to look through all the resources that the machine has, checks it againstthe recipe of the drin that we are trying to make, and tells the user if there is insufficient water, or if there is insufficient milk,
+THe program is able to look through all the resources that the machine has, checks it againstthe recipe of the drin that we are trying to make, and tells the user if there is insufficient water, or if there is insufficient milk, and as long as one of the resources is insufficient, then it cant make the drink and it gives the feedback to the user.
 </p>
