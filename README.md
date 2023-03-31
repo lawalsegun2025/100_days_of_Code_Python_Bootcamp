@@ -113,14 +113,15 @@ The coffee machine also has soe starting resourses like water milk and coffee.
 * Quarter (25 cent)
 
 **Program Requirements**
-1. Print report
+1. Print report.
 2. Check resources sufficient?
-3. Process coins
+3. Process coins.
 4. Check transaction successful?
+5. Make coffee.
 
 The program is able to look through all the resources that the machine has, checks it againstthe recipe of the drin that we are trying to make, and tells the user if there is insufficient water, or if there is insufficient milk, and as long as one of the resources is insufficient, then it cant make the drink and it gives the feedback to the user. 
 
 Also, the program needs to process coins. When the user orders for a drink, it should ask the user to insert coins and also ask for the quantity of each type of coin. If there is not enough money for the requested drink, the program refunds your money and does not give you a drink. But if you do insert enough money, the program calculates the amount of change based on the cost of the requested drink, and hands you your drink and your change.
 
-If the transacrion is successful, meaning enough money was inserted for the drick,
+If the transacrion is successful, meaning enough money was inserted for the drink, then the coffee machine makes the coffee.
 </p>
