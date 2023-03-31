@@ -85,7 +85,7 @@ This game is comparing who had more followers on Instagram. You will compare two
 </p>
 
 ---
-### Day_15 Coffee Making Machine
+## Day_15 Coffee Making Machine
 <div align="center">
  <img src="/img/coffee_machine.jpg">
 </div>
@@ -125,3 +125,8 @@ Also, the program needs to process coins. When the user orders for a drink, it s
 
 If the transacrion is successful, meaning enough money was inserted for the drink, then the coffee machine makes the coffee. And in the process of making the coffee, the program deducts the amout of resources used to make the coffee.
 </p>
+
+---
+## Day_16 Coffee Making Machine (Using Object Oriented Programming)
+
+Create the coffee making machine of day 15 using Object Oriented Programming
