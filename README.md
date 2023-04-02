@@ -133,3 +133,5 @@ Create the coffee making machine of day 15 using Object Oriented Programming
 
 ---
 ## Day_17 Quiz Game
+
+This is a true-false quiz, we will be a bple to play the quiz, answer the question and keep track of score.
