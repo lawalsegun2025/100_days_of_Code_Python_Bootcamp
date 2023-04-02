@@ -103,6 +103,7 @@ For the recepie of these drinck, each of them rquire a different quantity of wat
 <img src="/img/coffee_types.png">
 </div>
 The coffee machine also has soe starting resourses like water milk and coffee.
+</p>
 
 <img src="/img/starting_resources.png">
 
