@@ -133,5 +133,5 @@ Create the coffee making machine of day 15 using Object Oriented Programming
 
 ---
 ## Day_17 Quiz Game
-
+<p aligh="Justify">
 This is a true-false quiz, we will be a bple to play the quiz, answer the question and keep track of score. And this game is built completely using Object Oriented Programming. We crearted our classes and then using the objects created from those classes in order to build this game. You will be asked a true or false question, The more questions you get correct, the more score you get.
