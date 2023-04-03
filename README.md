@@ -28,7 +28,7 @@ This is a Rock Paper Scissors Game and it starts out by asking you, the user, to
 ---
 ## Day_5 Password_Generator
 
-<p aligh="Justify">
+<p align="Justify">
 This project is entails building a password generator. This password generator will generate strong passwords with lettersd and symbols and numbers. You will be asked how many letters would you like for your password? How many symbols would you like in your password? And finally, how many numbers will you like in your password? Then Hit enter, and the password it has generated will be displayed.
 </p>
 
@@ -120,7 +120,7 @@ The coffee machine also has soe starting resourses like water milk and coffee.
 4. Check transaction successful?
 5. Make coffee.
 
-<p aligh="Justify">
+<p align="Justify">
  The program is able to look through all the resources that the machine has, checks it againstthe recipe of the drin that we are trying to make, and tells the user if there is insufficient water, or if there is insufficient milk, and as long as one of the resources is insufficient, then it cant make the drink and it gives the feedback to the user. 
 
  Also, the program needs to process coins. When the user orders for a drink, it should ask the user to insert coins and also ask for the quantity of each type of coin. If there is not enough money for the requested drink, the program refunds your money and does not give you a drink. But if you do insert enough money, the program calculates the amount of change based on the cost of the requested drink, and hands you your drink and your change.
@@ -135,6 +135,6 @@ Create the coffee making machine of day 15 using Object Oriented Programming
 
 ---
 ## Day_17 Quiz Game
-<p aligh="Justify">
+<p align="Justify">
 This is a true-false quiz, we will be a bple to play the quiz, answer the question and keep track of score. And this game is built completely using Object Oriented Programming. We crearted our classes and then using the objects created from those classes in order to build this game. You will be asked a true or false question, The more questions you get correct, the more score you get.
 </p>
