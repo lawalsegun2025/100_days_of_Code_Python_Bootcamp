@@ -143,4 +143,4 @@ This is a true-false quiz, we will be a bple to play the quiz, answer the questi
 ---
 ## Day_25 USA States Quiz
 
-Every single time you type in the name of a state,
+Every single time you type in the name of a state, then that state gets labelled on the map and you score one point.
