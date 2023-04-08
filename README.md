@@ -144,5 +144,7 @@ This is a true-false quiz, we will be a bple to play the quiz, answer the questi
 ## Day_25 USA States Quiz
 
 <p align="Justify">
+This is and educational and interesting game, which gets you to guess and learn all the States in the US.
+
 Every single time you type in the name of a state, then that state gets labelled on the map and you score one point. The goal is to be able to name as many states as you can remember. This is the game we will be replicating using turtle and using some csv data.
 </p>
