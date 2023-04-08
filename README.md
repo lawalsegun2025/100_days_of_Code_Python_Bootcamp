@@ -152,5 +152,5 @@ Every single time you type in the name of a state, then that state gets labelled
 </p>
 
 ---
-## Day_26 NATO Alphabets
+## Day_26 NATO Phonetic Alphabets
 
