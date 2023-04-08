@@ -154,3 +154,4 @@ Every single time you type in the name of a state, then that state gets labelled
 ---
 ## Day_26 NATO Phonetic Alphabets
 
+This program allows you to enter a word, then it will return a list of all the NATO phonetic alphabet that matches each letter in the word.
